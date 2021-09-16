@@ -1,5 +1,5 @@
 # instagramy
-
+An instagram like page with vuejs and vuetify
 ## Project setup
 ```
 yarn install
