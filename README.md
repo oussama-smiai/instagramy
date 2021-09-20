@@ -1,6 +1,6 @@
 # instagramy
 An instagram like page with vuejs and vuetify
-check the result at http://
+check the result at https://oussama-smiai.github.io/instagramy/
 ## Project setup
 ```
 yarn install
